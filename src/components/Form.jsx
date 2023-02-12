@@ -2,7 +2,7 @@ import React from 'react';
 
 const Form = () => {
   return (
-    <form action="../telegram.php" method="POST">
+    <form action="telegram.php" method="POST">
       <div className="form-group">
         <input
           type="text"
